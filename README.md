@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎙️ Filler Word Detection System
 
 An AI-powered tool that listens to speech audio, transcribes it, and automatically detects hesitation filler words — giving you structured JSON output with detailed counts.
@@ -143,7 +143,7 @@ That's it! The system will process each file and print JSON output to the consol
 └──────────────────────┘
 ```
 
-> 💡 ![Project Output](screenshots/flowcharts.png)
+> 💡 ![flowcharts](screenshots/flowcharts.png)
 
 ---
 
@@ -167,7 +167,7 @@ The output would be:
 }
 ```
 
-> ![Project Output](screenshots/output1.png)
+> ![output1](screenshots/output1.png)
 ---
 
 ## 🧪 Supported Audio Formats
@@ -206,10 +206,5 @@ This project demonstrates how AI-based speech transcription (Whisper) combined w
 
 ---
 
-## 📃 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-=======
 # filler_word_detector
 AI-powered tool that transcribes speech audio using Whisper and detects hesitation filler words (um, uh, like, you know) with regex-based NLP. Outputs structured JSON with filler counts.
->>>>>>> 437a8a036a08156c0c035a6f63fcc5003cee314b
