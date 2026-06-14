@@ -143,7 +143,8 @@ That's it! The system will process each file and print JSON output to the consol
 └──────────────────────┘
 ```
 
-> 💡 ![flowcharts](screenshots/flowcharts.png)
+> <img width="588" height="738" alt="_- visual selection" src="https://github.com/user-attachments/assets/8b981dae-c443-42f3-ac0b-a86a658d5b07" />
+
 
 ---
 
@@ -167,7 +168,8 @@ The output would be:
 }
 ```
 
-> ![output1](screenshots/output1.png)
+> <img width="722" height="455" alt="Screenshot 2026-06-14 201903" src="https://github.com/user-attachments/assets/4ddf1767-0625-42dc-a0c5-f215eb74f1c2" />
+
 ---
 
 ## 🧪 Supported Audio Formats
